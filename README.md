@@ -1,2 +1,1 @@
-# listadca0800
-Respostas das questoes da lista 2
+Exercicios em sala de aula
